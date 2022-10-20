@@ -6,15 +6,7 @@
     object-fit: cover;
     background-repeat: no-repeat;
     background-size: cover;
-    /* z-index: -1;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    right: 0px;
-    height: 100vh;
-    -o-object-fit: cover;
-    object-fit: cover;  
-    max-width: 100%; */
+
 }
 
 /*__________________HEADER__________________________*/
@@ -52,6 +44,15 @@ header {
 }
 
 /*_______________MAİN 2_____________________*/
+
+
+@media only screen and (max-width: 600px) {
+   
+.main2 .video {
+    margin-left: 40% !important;
+    transform: translate(-50%) !important;
+}
+}
 
 .main2 {
     margin-top: 8%;
@@ -101,8 +102,31 @@ header {
     margin-left: -17%;
     align-items: center;
 }
-
 /* ______________________ MAİN3 _________________________ */
+
+@media only screen and (max-width: 750px) {
+   
+    .cards .panel {
+        width: 50% !important;
+            margin-left: 50% !important;
+    }
+    }
+
+    /* @media only screen and (max-width: 515px) {
+   
+        .cards .panel {
+            width: 50% !important;
+            margin-left: 50% !important;
+        }
+        }
+
+        @media only screen and (max-width: 320px) {
+   
+            .cards .panel {
+                width: 10px !important;
+                margin-left: 50% !important;
+            }
+            } */
 
 .main3 {
     margin-top: 15%;

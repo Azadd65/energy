@@ -23,12 +23,12 @@
 
 .main2 .video {
     margin-top: 50%;
-    margin-left: 50%;
+    margin-left: 47% !important;
     transform: translate(-95%) !important;
 }
 
 .main2 .video .iframe iframe {
-    width: 180% !important;
+    width: 190% !important;
     height: 210px !important;
 }
 
@@ -127,11 +127,11 @@
 
 }
 
-.cards .panel {
-    width: 180px !important;
+/* .cards .panel {
+    width: 50% !important;
     margin-left: 50% !important;
 
-}
+} */
 
 .text{
     font-size: 0.9em;
@@ -143,5 +143,15 @@
 .blue{
     margin-left: 45%;
     padding: 10% 5%;
+
+}
+
+.title{
+    font-size: 2.5em;
+}
+
+
+.main3 .container h2{
+    line-height: 45px;
 
 }
