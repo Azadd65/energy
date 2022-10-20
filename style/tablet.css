@@ -1,0 +1,153 @@
+.frame {
+    width: 80%;
+    margin-top: 16%;
+}
+
+.text1 p {
+    width: 71%;
+    margin: 0;
+    margin-left: 50%;
+    transform: translate(-50%);
+    font-size: 0.9em;
+}
+.title{
+    font-size: 3em;
+}
+
+.main2 .video .iframe iframe {
+    width: 420px !important;
+    height: 220px !important;
+}
+
+.video :nth-child(2) {
+    width: 100px;
+    height: 220px;
+    margin-top: 8%;
+}
+
+.video :nth-child(3) {
+    width: 100px;
+    height: 220px;
+    margin-top: -48%;
+    margin-left: -17%;
+}
+
+.main3 {
+    margin-top: 40%;
+}
+
+
+
+.cards .panel div :nth-child(3) {
+    margin-left: 108%;
+    margin-top: -8%;
+    z-index: -1;
+    width: 308px;
+    height: 10px;
+}
+/* .yatay{
+    display: none;
+}
+
+.dik2, .orta :nth-child(4){
+    display: inline-flex; 
+    } */
+
+ 
+    .liste {
+        width: 90%;
+    }
+    
+    .main5 .container :nth-child(2) {
+        display: none;
+    }
+    
+    .main5 .container :nth-child(3) {
+display: none;
+    }
+
+   
+.blue {
+    margin-top: 20%;
+    width: 90%;
+}
+
+.blue .title{
+    font-size: 2em;
+}
+
+.main6{
+    margin-top: 70%;
+    }
+
+    #selectler {
+        font-size: 1.5em;
+      }
+
+      .small-title{
+        color: #80BC00;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 1.5em !important;
+        line-height: 50px;
+        text-align: center;
+        width: 50%;
+        font-size: 2em;
+        line-height: 1.2em;
+        margin-bottom: 10%;
+        display: flex;
+      }
+
+      .paragraf{
+        font-size: 1.3em;
+        line-height: 30px;
+        width: 90% !important;
+        padding: 5% 4%;
+     
+    }
+
+    .cards .panel {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        margin-left: 50% ;
+        transform: translate(-50%) ;
+    }
+
+    .yatay{
+        display: none;
+    }
+
+    .dikcubuk{display: flex;}
+
+    .cards2 {
+    margin: 0;
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    width: 100% !important;
+}
+
+.cards2 .card1 {
+    width: 70%;
+    margin-left: 0 !important;
+    margin-top: 10%;
+}
+
+.cards .panel div {
+    margin-left: 0% !important;
+    transform: translate(0%) !important;
+}
+
+.cards3 {
+     margin-top: 0% !important; 
+}
+
+.cards2 .card1 {
+     margin-top: 0% !important;
+}
+.svg{
+    margin-left: 100% !important;
+}

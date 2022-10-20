@@ -1,0 +1,147 @@
+.container {
+    padding-left: 1em;
+}
+
+.logo {
+    width: 144px;
+    height: 48px;
+    margin-top: -5%;
+}
+
+.frame {
+    width: 80%;
+    margin-top: 39%;
+}
+
+.text1 p {
+    width: 94%;
+    margin: 0;
+    margin-left: 50%;
+    transform: translate(-50%);
+
+}
+
+.main2 .video {
+    margin-top: 50%;
+    margin-left: 50%;
+    transform: translate(-95%) !important;
+}
+
+.main2 .video .iframe iframe {
+    width: 180% !important;
+    height: 210px !important;
+}
+
+.video :nth-child(2) {
+    width: 70px;
+    height: 150px;
+    float: right;
+    margin-right: -91% !important;
+    margin-top: 45% !important;
+    display: flex;
+}
+
+.video :nth-child(3) {
+    width: 70px;
+    height: 150px;
+    margin-top: -55%;
+    margin-left: -17%;
+    align-items: center;
+}
+
+.main3 {
+    margin-top: 60%;
+}
+
+.main3 .container h2 {
+    font-size: 2.5em;
+
+}
+
+.yatay {
+    display: none;
+}
+
+.liste {
+    width: 98%;
+}
+
+.blue .title {
+    font-size: 1em;
+    line-height: 30px;
+}
+
+.main6 {
+    margin-top: 85%;
+}
+
+/* .main6 .container .cards{
+                margin-left: 55%;
+                transform: translate(-50%);
+                } */
+
+.kart {
+    padding: 17% 0;
+    width: 185%;
+    margin-top: 60%;
+    margin-left: 40%;
+    transform: translate(-50%);
+    margin-bottom: 40%;
+
+}
+
+.kart img {
+    margin: -38% 0 10% 0;
+    width: 30%;
+    color: #fff200;
+
+}
+
+.small-title {
+    margin-left: 90% !important;
+    transform: translate(-50%);
+    width: 80%;
+}
+
+.paragraf {
+    font-size: 0.9em;
+    line-height: 25px;
+    width: 105% !important;
+    padding: 15% 10%;
+}
+
+.card1 {
+    width: 45%;
+    margin-left: -5% !important;
+}
+
+.main4 .title {
+    color: #80BC00;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2.5em;
+    line-height: 50px;
+    text-align: center;
+    margin-top: 20%;
+
+}
+
+.cards .panel {
+    width: 180px !important;
+    margin-left: 50% !important;
+
+}
+
+.text{
+    font-size: 0.9em;
+}
+.text .liste{
+    padding: 0 7%;
+}
+
+.blue{
+    margin-left: 45%;
+    padding: 10% 5%;
+
+}

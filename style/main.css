@@ -1,0 +1,491 @@
+.main1 {
+    background-image: url(american-public-power-association-XGAZzyLzn18-unsplash\ 1.png);
+    height: 100vh;
+    width: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100vh;
+    -o-object-fit: cover;
+    object-fit: cover;  
+    max-width: 100%; */
+}
+
+/*__________________HEADER__________________________*/
+header {
+    width: 100%;
+    padding-top: 2.5rem;
+}
+
+.logo {
+    width: 190px;
+    height: auto;
+    margin-left: 3%;
+
+}
+
+.frame {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 45%;
+    margin-top: 10px;
+}
+
+.frame img {
+    width: 100%;
+    margin-top: 10%;
+}
+
+
+@media only screen and (max-width: 1440px) {
+    .frame {
+        width: 50%;
+
+    }
+}
+
+/*_______________MAİN 2_____________________*/
+
+.main2 {
+    margin-top: 8%;
+    color: #737984;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text1 p {
+    width: 70%;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+
+.main2 .video {
+    margin-top: 20%;
+    margin-left: 50%;
+    transform: translate(-50%);
+    position: relative;
+}
+
+.main2 .video .iframe {
+    position: absolute;
+}
+
+.main2 .video .iframe iframe {
+    width: 600px;
+    height: 330px;
+    z-index: -1;
+    margin-top: -15%;
+    border-radius: 10px;
+}
+
+.video :nth-child(2) {
+    width: 150px;
+    height: 280px;
+    float: right;
+    margin-right: -9%;
+    margin-top: 8%;
+    display: flex;
+}
+
+.video :nth-child(3) {
+    width: 150px;
+    height: 280px;
+    margin-top: -32%;
+    margin-left: -17%;
+    align-items: center;
+}
+
+/* ______________________ MAİN3 _________________________ */
+
+.main3 {
+    margin-top: 15%;
+    margin-bottom: 20%;
+}
+
+.title {
+    margin-bottom: 10%;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+}
+
+.card1 {
+    background: rgba(128, 188, 0, 0.1);
+    box-shadow: 0px 4px 8px #F1F3F7;
+    border-radius: 30px;
+    padding: 2%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 30;
+}
+
+.dikcubuk{display: none;}
+
+.cards .panel {
+    width: 550px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 5%;
+}
+
+.cards .panel div {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.cards .panel div :nth-child(2) {
+    margin-top: -3%;
+}
+
+.yatay {
+    margin-left: 108%;
+    margin-top: -8%;
+    z-index: -1;
+    width: 348px;
+    height: 10px;
+}
+
+.cards2 {
+    margin: 0;
+    margin-top: -16%;
+    margin-left: 39.5%;
+    display: flex;
+    align-items: center;
+
+}
+
+.cards2 .card1 {
+    width: 70%;
+    margin-left: 20%;
+    margin-top: 13%;
+    padding: 5% 5%;
+}
+
+
+
+.svg :nth-child(2) {
+    margin-left: -100%;
+    z-index: -1;
+    transform: translateY(50%);
+    margin-top: -15% !important;
+}
+
+.cards2 .panel div {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 15%;
+}
+
+.svg{
+    margin-top: -8% !important;
+}
+.cards3 {
+    margin-top: -4.5%;
+}
+
+.cards4 {
+    margin-top: -15%;
+}
+
+.card7 {
+    margin-top: -8%;
+}
+
+.dik2,
+.orta :nth-child(4) {
+    display: none;
+}
+
+/* _____________MAİN4________________________ */
+
+.title2 {
+    margin-top: -17%;
+}
+
+
+
+.liste {
+    text-align: justify;
+    width: 85%;
+    margin-left: 50%;
+    transform: translate(-50%);
+    margin-top: -5%;
+}
+
+
+.main4 .container {
+    color: #737984;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/* _____________MAİN5________________________ */
+.main5 .container {
+    position: relative;
+    margin-top: -5%;
+}
+
+.blue {
+    margin-top: 5%;
+    margin-left: 50%;
+    transform: translate(-50%);
+    width: 850px;
+    background: #7B98CE;
+    border-radius: 30px;
+    color: white;
+    padding: 5%;
+    position: absolute;
+    z-index: 10;
+}
+
+.blue .title {
+    color: white;
+    font-size: 3em;
+    margin-bottom: 0;
+}
+
+.main5 .container :nth-child(2) {
+    margin-top: 15%;
+    display: flex;
+    margin-left: 12%;
+    z-index: -1;
+}
+
+.main5 .container :nth-child(3) {
+    margin-left: 84%;
+    transform: translate(-50%);
+    display: flex;
+}
+
+/* ____________________MAİN6___________________________ */
+
+.main6 {
+    margin-top: 15%;
+}
+
+.main6 .container .cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.kart {
+    padding: 5% 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border: 5px solid #FDDF4D;
+    border-radius: 20px;
+    width: 25%;
+}
+
+.small-title {
+    color: #80BC00;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2em;
+    line-height: 50px;
+    text-align: center;
+    width: 50%;
+    font-size: 2em;
+    line-height: 1.2em;
+    margin-bottom: 10%;
+    display: flex;
+}
+
+#selectler {
+    color: rgba(115, 121, 132, 0.5);
+    font-size: 1.5em;
+    padding: 0 0 2% 0;
+    width: 60%;
+    text-align: center;
+    border-width: 0;
+    border-style: solid;
+    border-color: currentColor;
+    border-color: #80BC00;
+    border-bottom-width: 3px;
+    margin: 10% 0 0% 0;
+    text-align: start;
+    --tw-text-opacity: 1;
+    color: rgb(115 121 132 / var(--tw-text-opacity));
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+
+.kart button {
+    margin-top: 20%;
+    margin-bottom: 0;
+    background-color: #80BC00;
+    padding: 6%;
+    border-radius: 5px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    border: #80BC00;
+}
+
+.kart img {
+    margin: -49% 0 10% 0;
+    width: 30%;
+    color: #fff200;
+
+}
+
+@media only screen and (max-width: 700px) {
+
+    .kart img {
+        margin: -44% 0 10% 0;
+        width: 30%;
+        color: #fff200;
+
+    }
+
+    .main6 .container .cards {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-left: 55%;
+        transform: translate(-50%);
+    }
+
+    .kart {
+        padding: 17% 0;
+        width: 125%;
+        margin-top: 50%;
+        margin-left: 40%;
+        transform: translate(-50%);
+    }
+}
+
+/* ____________________FOOTER___________________________ */
+
+footer {
+    width: 100%;
+    padding-bottom: 5%;
+    background: #2D2D2D;
+    margin-top: 10%;
+}
+
+footer .container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.hakkimda {
+    width: 100%;
+    padding: 0 5%;
+    background-color: #2D2D2D;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 7%;
+}
+
+.altlogo {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+
+}
+
+.cizgi {
+    height: 100%;
+    width: 2px;
+    color: white;
+    border: 1px solid white;
+    margin-right: 15%;
+}
+
+.altlogo :nth-child(1) {
+    margin-right: 15%;
+}
+
+.altlogo2 {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+.yatayy {
+    display: none;
+}
+
+
+@media only screen and (max-width: 680px) {
+
+    .hakkimda{
+        display: flex;
+        flex-direction: column;
+    }
+
+    footer {
+        padding: 5% 1%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .altlogo2 {
+        margin-top: 10%;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 1.1em;
+        line-height: 40px;
+        color: #FFFFFF;
+        text-align: center;
+    }
+
+    .altlogo {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+
+    .altlogo :nth-child(1) {
+        margin: 10% 0;
+    }
+
+    .cizgi {
+        display: none;
+    }
+
+    .yatayy {
+        display: flex;
+        width: 80%;
+        height: 1%;
+        border: 0.5px solid white;
+        margin: 10% 0;
+    }
+
+    .logo1 {
+        height: 90%;
+    }
+
+}
